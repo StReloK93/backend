@@ -1,0 +1,14 @@
+{
+  "name": "backenduzinfo",
+  "version": "1.0.0",
+  "description": "json-server testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
